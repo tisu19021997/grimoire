@@ -32,4 +32,8 @@ Simon's stated goal for the guide: name patterns that *won't go stale as the too
 - Where's the line between *amplifying* expertise and *outsourcing the part where you'd have learned something*?
 - Is there a "vibe X" for music? Vibe guitar — playing without learning theory? Vibe photography — auto mode and a good preset? When is vibe-mode the right choice and when does it rob you?
 
+## the full guide
+
+Full clone of all 16 chapters lives at [[willison-agentic-engineering-patterns/index|willison-agentic-engineering-patterns/]] — his words, pulled 2026-04-23, for offline re-reading. This file stays my own synthesis.
+
 See also: [[claude-code]], [[vibe-coding]], [[karpathy-llm-wiki]]
